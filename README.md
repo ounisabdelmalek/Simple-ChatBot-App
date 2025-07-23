@@ -24,9 +24,7 @@ It integrates **Google's Gemini AI** and **Firebase** for generating smart repli
 ## 📸 Screenshots
 | Chat Interface | Response Flow |
 |----------------|---------------|
-| ![Screenshot1](<img width="1080" height="2400" alt="Screenshot_20250723_193407" src="https://github.com/user-attachments/assets/fe723fb8-2114-43c2-af2c-56f5746ff3c6" />
-) | ![Screenshot2](<img width="1080" height="2400" alt="Screenshot_20250723_193459" src="https://github.com/user-attachments/assets/0bfa49ad-4831-4c10-96b8-bc0543f5515c" />
-) |
+| ![Screenshot1](<img width="1080" height="2400" alt="Screenshot_20250723_193407" src="https://github.com/user-attachments/assets/fe723fb8-2114-43c2-af2c-56f5746ff3c6" />) | ![Screenshot2](<img width="1080" height="2400" alt="Screenshot_20250723_193459" src="https://github.com/user-attachments/assets/0bfa49ad-4831 4c10-96b8-bc0543f5515c" />) |
 
 
 ## 🔄 Observer Pattern
